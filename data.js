@@ -12,7 +12,7 @@ const data = {
     "general": {
         "firstName": "Maxime",      // fill in with your own first name
         "lastName": "Vanrenterghem",    // fill in with your own last name
-        "class": "1AVD",            // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
+        "class": "1AVDb",            // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
         "studentnumber": "106116"  // fill in with your student number
     },
 
