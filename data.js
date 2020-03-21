@@ -20,8 +20,7 @@ const data = {
    */
 
   assignment1: {
-    buttons: [
-      {
+    buttons: [{
         text: 'Inspiratieboek',
         title: 'Mijn PDF met inspiratie (login, functions, result)',
         href: './assignments/assignment1/documents/a1-inspiration.pdf',
@@ -46,8 +45,7 @@ const data = {
    */
 
   assignment2: {
-    buttons: [
-      {
+    buttons: [{
         text: 'Inspiratieboek',
         title: 'Mijn PDF met inspiratie',
         href: './assignments/assignment2/documents/a2-inspiration.pdf',
@@ -61,7 +59,7 @@ const data = {
       {
         text: 'Adobe XD Prototype',
         title: 'Mijn Adobe XD prototype (share link)',
-        href: 'https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid',
+        href: 'https://xd.adobe.com/view/1446a615-9556-4ec0-70f6-95aa24c4edab-6277/',
         target: '_blank'
       }
     ]
@@ -72,8 +70,7 @@ const data = {
    */
 
   assignment3: {
-    buttons: [
-      {
+    buttons: [{
         text: 'Adobe XD',
         title: 'Mijn Adobe XD document met Wireframes & Visual Design',
         href: './assignments/assignment3/documents/a3-wireframes-visual-designs.xd'
@@ -98,8 +95,7 @@ const data = {
    */
 
   assignment4: {
-    buttons: [
-      {
+    buttons: [{
         text: 'Analyse',
         title: 'Mijn PDF met een analyse van de gemaakte fouten',
         href: './assignments/assignment4/documents/a4-analysis.pdf',
@@ -129,13 +125,11 @@ const data = {
    */
 
   assignment5: {
-    buttons: [
-      {
-        text: 'Website',
-        title: 'Mijn website voor opdracht 5',
-        href: './assignments/assignment5/website/index.html',
-        target: '_blank'
-      }
-    ]
+    buttons: [{
+      text: 'Website',
+      title: 'Mijn website voor opdracht 5',
+      href: './assignments/assignment5/website/index.html',
+      target: '_blank'
+    }]
   }
 };
